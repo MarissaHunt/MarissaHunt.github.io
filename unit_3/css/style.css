@@ -33,7 +33,39 @@ p {
     }
 
 li {
-    display: inline;
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
     text-align: center;
     padding-left: 50px;
     padding-right: 50px;
