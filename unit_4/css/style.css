@@ -8,11 +8,9 @@
 @import url('https://fonts.googleapis.com/css?family=Candal');
     h1 {
 font-family: 'Candal', sans-serif;
-    font-size: 18px;
-    text-transform: uppercase;
-    letter-spacing: 10px;
 }
-#slogan {
+    
+    #slogan {
     font-family: 'Helvetica', sans-serif;
     font-size: 30px;
     text-align: center;
