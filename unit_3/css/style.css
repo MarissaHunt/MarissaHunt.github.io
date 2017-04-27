@@ -5,9 +5,9 @@
     background-size: cover;
     width: 1200px;
    }
-
+@import url(@import url(@import url('https://fonts.googleapis.com/css?family=Anton');
     h1 {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     letter-spacing: 20px;
