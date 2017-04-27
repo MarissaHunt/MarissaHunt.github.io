@@ -5,16 +5,15 @@
     background-size: cover;
     width: 1200px;
    }
-@import url(@import url(@import url('https://fonts.googleapis.com/css?family=Anton');
     h1 {
-    font-family: 'Anton', sans-serif;
+    font-family: sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     letter-spacing: 20px;
 }
-
+@import url(@import url(@import url('https://fonts.googleapis.com/css?family=Anton');
 #slogan {
-         font-family: Helvetica, serif;
+    font-family: 'Anton', sans-serif;
     font-style: italic;
     font-weight: bold;
     font-size: 30px;
