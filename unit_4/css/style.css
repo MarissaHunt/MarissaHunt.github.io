@@ -1,0 +1,73 @@
+   body {
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+    background-size: cover;
+    width: 1200px;
+   }
+@import url(@import url(@import url('https://fonts.googleapis.com/css?family=Anton');
+    h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+
+#slogan {
+         font-family: Helvetica, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    }
+
+#intro {
+    margin: auto;
+    text-align: center;
+    width: 900px;
+}
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    }
+
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
