@@ -1,0 +1,70 @@
+ 
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+    h1 {
+font-family: 'Bowlby One SC', cursive;
+}
+
+nav {
+background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px; 
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+background-color: #FFC675;
+border: 1px black solid;
+padding: 20px; 
+}
+
+footer {
+    background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;    
+}
+
+   
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #fff;
+    text-decoration: none;
