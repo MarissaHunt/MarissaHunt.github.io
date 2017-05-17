@@ -1,0 +1,104 @@
+ 
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+    h1 {
+font-family: 'Bowlby One SC', cursive;
+}
+
+nav {
+background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px; 
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+background-color: #FFC675;
+border: 1px black solid;
+padding: 20px; 
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+      background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+
+footer {
+    background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;    
+}
+
+   
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
