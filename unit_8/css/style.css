@@ -1,0 +1,123 @@
+    h1 {
+font-family: 'Bowlby One SC', sans-serif;
+}
+
+nav {
+background-color: #E8C66A;
+border: 1px black solid;
+padding: 20px; 
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+background-color: #FFC675;
+border: 1px black solid;
+padding: 20px; 
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#right {
+      background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+
+footer {
+    background-color: #FF957E;
+border: 1px black solid;
+padding: 20px;    
+}
+
+   
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+li {
+        display: inline;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #FF957E;
+    text-decoration: none;
+}
+
+@media (min-width: 767px) {
+    #left {
+        width: 30%;
+        float: left;
+        margin-bottom: 0;
+    }
+    #right {
+        width: 57%;
+        float: right;
+    }
+}
+
+@media (min-width: 1024px) {
+    #right {
+        width: 59%;
+    }
+}
+
+@media (min-width: 1200px) {
+    #right {
+        width: 62%;
+    }
+}
